@@ -12,6 +12,14 @@
     "grunt-contrib-concat": "~0.3.0",
     "grunt-contrib-cssmin": "~0.4.1"
   },
+
+{
+  "engines": {
+    "node": "0.6.x",
+    "npm":  "1.0.x"
+  }
+},
+
   "repository": {
     "type": "git",
     "url": "git@github.com:groundworkcss/groundwork.git"
