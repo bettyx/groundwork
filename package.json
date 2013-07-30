@@ -2,8 +2,8 @@
   "name": "GroundworkCSS",
   "version": "1.11.2",
 "engines": {
-    "node": "0.6.14",
-    "npm":  "1.1.4"
+    "node": "0.10.15",
+    "npm":  "1.3.5"
 },
   "description": "GroundworkCSS is a fully responsive HTML5, CSS and Javascript toolkit created by @ghepting",
   "devDependencies": {
